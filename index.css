@@ -1,0 +1,20 @@
+/*this is the class of heading*/
+.top_heading {
+    color:red;
+}
+#heading{
+    color: blue;
+}
+
+#new_div {
+    color: deeppink;
+   }
+   .second , .Third{
+    color: aqua;
+   }
+p{
+color: lime;
+}
+.small_heading{
+color: orange;
+}
